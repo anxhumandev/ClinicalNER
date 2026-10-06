@@ -1,6 +1,6 @@
 # ClinicalNER — Clinical Trial De-Identification Pipeline
 
-![CI](https://github.com/ansh-0069/ClinicalNER/actions/workflows/tests.yml/badge.svg)
+![CI](https://github.com/anxhumandev/ClinicalNER/actions/workflows/tests.yml/badge.svg)
 ![Tests](https://img.shields.io/badge/tests-269%20passing-brightgreen)
 ![Coverage](https://img.shields.io/badge/coverage-70%25%2B-brightgreen)
 ![Live](https://img.shields.io/badge/live-azure-brightgreen)
@@ -475,7 +475,7 @@ Clinical data operations • HIPAA / privacy concepts • DQP traceability • C
 
 For questions about this project:
 
-- **GitHub**: [github.com/ansh-0069](https://github.com/ansh-0069)
+- **GitHub**: [github.com/anxhumandev](https://github.com/anxhumandev)
 
 ---
 
